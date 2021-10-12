@@ -1,5 +1,5 @@
 
-header{
+h1{
     font-family:fantasy;
     font-size: 70px;
     font-weight: 1200;
@@ -12,27 +12,13 @@ nav{
     text-align: center;
     background-color: rgb(194, 93, 113)
 }
-h1{
+h2{
     font-family: fantasy;
     font-size:35px ;
     color:rgb(124, 25, 25);
     background-color: cornsilk;
 }
-main{
-    font-family:'Courier New', Courier, monospace;
-    font-style:italic;
-    font-size:20px ;
-    text-align: center;
-    font-weight: 900; 
-    background-color:rgb(194, 99, 113);
-} 
-h2{
-    font-family: fantasy;
-    font-size: 35px;
-    color:rgb(124, 25, 25);
-    background-color: cornsilk;
-}
-main{
+p1{
     font-family:'Courier New', Courier, monospace;
     font-style:italic;
     font-size:20px ;
@@ -46,7 +32,21 @@ h3{
     color:rgb(124, 25, 25);
     background-color: cornsilk;
 }
-main{
+p2{
+    font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+    font-size:20px ;
+    text-align: center;
+    font-weight: 900; 
+    background-color:rgb(194, 99, 113);
+} 
+h4{
+    font-family: fantasy;
+    font-size: 35px;
+    color:rgb(124, 25, 25);
+    background-color: cornsilk;
+}
+p3{
     font-family:'Courier New', Courier, monospace;
     font-style:italic;
     font-size:20px ;
