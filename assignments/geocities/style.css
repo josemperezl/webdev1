@@ -1,0 +1,29 @@
+h1{
+   color:papayawhip;
+   font-size:30px;
+   text-align: center;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight:bold;
+   
+}
+img{
+   width: 295px;
+   position: relative;
+   left: 100px;
+}
+p1{
+   color:magenta;
+   font-family: fantasy;
+   font-size: 40px;
+   background:plum;
+   position: absolute;
+   left: 200px;
+   
+
+}
+body{
+background-image: url("https://i.pinimg.com/originals/0d/5e/8d/0d5e8d37dab34ed79623c5f693849719.gif");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
