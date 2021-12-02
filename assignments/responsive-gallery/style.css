@@ -1,0 +1,25 @@
+h1{
+    font: roboto;
+    font-size: 30px;
+    color: blue;
+}
+nav{
+   position: relative;
+   left: 950px;
+   font-size: 30px;
+}
+.grid-container{
+    height: 100vh;
+    background: blueviolet;
+    display: grid;
+    gap: .25em;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+
+.item{
+    background: whitesmoke;
+    height: 100%;
+    width: 100%;
+   
+}
