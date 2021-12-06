@@ -5,8 +5,9 @@ h1{
 }
 nav{
    position: relative;
-   left: 950px;
+   left: 800px;
    font-size: 30px;
+   
 }
 .grid-container{
     height: 100vh;
