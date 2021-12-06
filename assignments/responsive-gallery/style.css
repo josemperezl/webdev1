@@ -21,5 +21,18 @@ nav{
     background: whitesmoke;
     height: 100%;
     width: 100%;
-   
 }
+
+@media (max-width: 500px) {
+  
+    
+    .grid-container {
+      grid-template-columns: 1fr 1fr;
+    }
+    
+    .item {
+      background:azure;
+    }
+
+    
+  }
