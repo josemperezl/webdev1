@@ -1,6 +1,7 @@
 body{
   max-width: 1000px;
   margin: 0 auto;
+  background:lightblue;
 }
 header{
   display:flex;
