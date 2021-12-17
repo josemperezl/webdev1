@@ -1,0 +1,167 @@
+body{
+    background: rgb(172, 89, 197);
+    margin: 0 auto;
+}
+h1{
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(83, 158, 102);
+    size: 13rem;
+    background: rgb(4, 61, 7);
+}
+h2{
+    color: rgb(12, 27, 12);
+    background: green;
+    font-family: monospace;
+    border-radius: 50px;
+}
+.textbox1{
+    font-family: monospace;
+    background: rgb(81, 206, 81);
+    position: relative;
+    bottom: 1500px;
+    right:130px;
+}
+.textbox4{
+    font-family: monospace;
+    background: rgb(72, 170, 72);
+    position: relative;
+    bottom: 600px;
+    right: 400px;
+}
+.textbox2{
+    font-family: monospace;
+    background: rgb(81, 206, 81);
+    position: relative;
+    bottom: 1300px;
+    right: 550px;
+}
+.textbox3{
+    font-family: monospace;
+    background: rgb(72, 170, 72);
+    position: relative;
+    bottom: 990px;
+    left: 590px;
+}
+.logospotify{
+    position: relative;
+    height: 102px ;
+    width: 102px;
+}
+img{
+    height: 585px;
+    width: 435px;
+    position: relative;
+} 
+.topgenres{
+    position: absolute, relative;
+    top: 64px;
+    border: rgb(129, 9, 103);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;;
+    border: rgb(129, 9, 103);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;
+    right: 380px;
+}
+.topsongs{
+    top: 70px;
+    left: 85px;
+    border: rgb(129, 9, 103);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;;
+    top: 750px;
+    border: rgb(129, 9, 103);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;
+    right: 420px;
+}
+.artists{
+    top: 70px;
+    left: 35px;
+    border: rgb(83, 16, 67);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;
+}
+.onepercent{
+    top: 140px;
+    border: rgb(129, 9, 103);
+    border-radius: 35px;
+    border-style: groove;
+    border-width: 10px;
+    left: 950px;
+}
+.guitar{
+    height: 18vh;
+    width: 18vh;
+    position: absolute, relative;
+    bottom: 1279px;
+    right: 80px;
+}
+.discodancing{
+    height: 30vh;
+    width: 30vh;
+    position: absolute, relative;
+    bottom: 1000px;
+    left: 375px; 
+}
+.daddyissues{
+    position: relative;
+    bottom: 26rem;
+    height: 25vh;
+    width: 25vh;
+    right: 26rem;
+    
+}
+.flutegirl{
+    height: 25vh;
+    width: 25vh;
+    position: absolute, relative;
+    bottom: 500px;
+    left: 140px;
+}
+.drums{
+    position: absolute, relative;
+    height: 25vh;
+    width: 25vh;
+    bottom: 1000px;
+    right: 860px;
+}
+.girlies{
+    position: absolute, relative;
+    height: 25vh;
+    width: 25vh;
+    bottom: 8px;
+    right: 1020px;
+}
+.elvislookalike{
+    position: absolute,relative;
+    left: 390px;
+    bottom: 20rem;
+
+}
+.speaker{
+    position: absolute,relative;
+    bottom: 63rem;
+    height: 20vh;
+    width: 20vh;
+    left: 1px;
+    
+}
+
+h5{
+    text-align:center;
+    color: rgb(83, 158, 102);
+    size: 250px;
+    background: rgb(4, 61, 7);
+}
+.button{
+    position: relative;
+    bottom: 400px;
+    left: 1000px;
+}
